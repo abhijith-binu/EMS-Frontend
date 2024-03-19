@@ -1,0 +1,1 @@
+export const BASE_URL = 'https://ems-py7h.onrender.com'
